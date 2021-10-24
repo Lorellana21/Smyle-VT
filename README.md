@@ -2,15 +2,18 @@
 
 This is one of the first exercises to review our progress in *Module 1 at Adalab´s bootcamp*.  
 
-It is about the creation of a **simple landing page** with a minimalist style made up of:  
-1. a **body** occupyng the **total height of the screen**,
-2. text **in the middle**, just the Name and Motto of the young youtuber 🎬(of course, I have used his favourite colour✔),
-3. a **fixed footer** showing a **copyright** and the **logo**. 
+## The most perfect red of the year
 
+The municipal fire service are going to launch an online campaign.
+The first step of this campaign is to make the public aware of the most perfect red there is, which is also the corporate colour of the proud fire service: Fire Red Engine.
+We have been asked to make a **simple landing page** to present Fire Engine Red. For this, the design service of the city council has prepared some screens, and we are going to do the responsive layout.
+
+The minimalist style is made up of:  
+1. a **body** occupyng the **total height of the screen**, and in its centre will show the hexadecimal code (#CC212A) and the most perfect red name, the Fire Red Engine. Of course using this colour for the font and contrasting with the purest digital white,
+1. a **fixed footer** to the browser window showing what will be the future branding of that colour. 
 
 The design is **responsive** to mobile, tablet and desktop.  
 In addition to that, I have implemented a **link** 🔗 to his **Youtube channel**, could you find it out?👀
-
 
 
 ## The screens
